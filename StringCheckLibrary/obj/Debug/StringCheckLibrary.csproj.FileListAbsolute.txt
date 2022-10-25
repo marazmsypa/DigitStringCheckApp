@@ -1,0 +1,6 @@
+C:\Users\Вувичка\source\repos\StringCheckLibrary\StringCheckLibrary\bin\Debug\StringCheckLibrary.dll
+C:\Users\Вувичка\source\repos\StringCheckLibrary\StringCheckLibrary\bin\Debug\StringCheckLibrary.pdb
+C:\Users\Вувичка\source\repos\StringCheckLibrary\StringCheckLibrary\obj\Debug\StringCheckLibrary.csprojAssemblyReference.cache
+C:\Users\Вувичка\source\repos\StringCheckLibrary\StringCheckLibrary\obj\Debug\StringCheckLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Вувичка\source\repos\StringCheckLibrary\StringCheckLibrary\obj\Debug\StringCheckLibrary.dll
+C:\Users\Вувичка\source\repos\StringCheckLibrary\StringCheckLibrary\obj\Debug\StringCheckLibrary.pdb

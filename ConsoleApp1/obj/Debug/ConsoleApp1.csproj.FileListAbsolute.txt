@@ -1,0 +1,10 @@
+C:\Users\Вувичка\source\repos\StringCheckLibrary\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Вувичка\source\repos\StringCheckLibrary\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Вувичка\source\repos\StringCheckLibrary\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Вувичка\source\repos\StringCheckLibrary\ConsoleApp1\bin\Debug\StringCheckLibrary.dll
+C:\Users\Вувичка\source\repos\StringCheckLibrary\ConsoleApp1\bin\Debug\StringCheckLibrary.pdb
+C:\Users\Вувичка\source\repos\StringCheckLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Вувичка\source\repos\StringCheckLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Вувичка\source\repos\StringCheckLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Вувичка\source\repos\StringCheckLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Вувичка\source\repos\StringCheckLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
